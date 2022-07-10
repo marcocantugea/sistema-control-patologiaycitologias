@@ -1,6 +1,6 @@
 {
-    "appName":"Sistema de Turnos",
-    "host":"http://localhost:8081",
+    "appName":"Sistema de Control de Citologias y Patalogia",
+    "host":"http://localhost",
     "adminUser":"admin",
     "adminPass":"turnos$34",
     "adminEmail":"admin@gmail.com"
