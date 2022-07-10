@@ -1,0 +1,7 @@
+{
+    "appName":"Sistema de Turnos",
+    "host":"http://localhost:8081",
+    "adminUser":"admin",
+    "adminPass":"turnos$34",
+    "adminEmail":"admin@gmail.com"
+}

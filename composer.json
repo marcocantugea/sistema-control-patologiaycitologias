@@ -1,0 +1,29 @@
+{
+    "name": "marcocantu/admin",
+    "authors": [
+        {
+            "name": "Marco Cantu Gea",
+            "email": "marco.cantu@gme.mx"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "1.7.0",
+        "vlucas/phpdotenv": "^5.4",
+        "symfony/http-foundation": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/",
+            "controllers\\": "controllers/",
+            "tests\\" : "Test/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "scripts": {
+        "test":[
+            "phpunit"
+        ]
+    }
+}
